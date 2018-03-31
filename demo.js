@@ -66,7 +66,7 @@ function handleInput(filename, buffer) {
 }
 
 // var sf2 = '1mgm.sf2'
-var sf2 = '2gmgsmt.sf2'
+var sf2 = 'soundfont.sf2'
 // var sf2 = 'A320U.sf2'
 // var sf2 = 'GeneralUser GS MuseScore v1.44.sf2'
 // var sf2 = 'FluidR3 GM2-2.sf2'
